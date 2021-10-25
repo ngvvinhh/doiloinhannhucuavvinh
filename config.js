@@ -1,5 +1,5 @@
 const nameGirl = 'gnmapdjt';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/ngoc.gia.7505';
 const eventName = 'Đôi lời vvinh nhắn nhủ';
 const titleCard = 'Gửi bạn iu';
 const contentCard = 'Trước tiên, chúc bạn có nhiều sức khoẻ để theo đuổi ước mơ vì có sức khoẻ là có tất cả mà,phải sống thật tốt nữa đó và luôn luôn thành công.Khóc nhè là xấu lắm đó nên hạn chế lại nha thay vào đó hãy luôn nở nụ cười trên môi vì gn cười lên trông xinh lắm luôn í.Luôn giữ liên lạc đấy nhớ, đừng có mà quên tui. Best wishes for you!!!  ';
