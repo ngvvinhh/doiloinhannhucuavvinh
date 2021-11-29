@@ -2,7 +2,7 @@ const nameGirl = 'gnmapdjt';
 const giftUrl = 'https://www.facebook.com/ngoc.gia.7505';
 const eventName = 'Đôi lời vvinh nhắn nhủ';
 const titleCard = 'Gửi bạn iu';
-const contentCard = 'Trước tiên, chúc bạn có nhiều sức khoẻ để theo đuổi ước mơ vì có sức khoẻ là có tất cả mà,phải sống thật tốt nữa đó và luôn luôn thành công.Khóc nhè là xấu lắm đó nên hạn chế lại nha thay vào đó hãy luôn nở nụ cười trên môi vì gn cười lên trông xinh lắm luôn í.Luôn giữ liên lạc đấy nhớ, đừng có mà quên tui. Best wishes for you!!!  ';
+const contentCard = 'Sau này, bạn iu ai cũng được nhưng nhất định người đấy phải trưởng thành vì khi đủ chín chắn họ không chỉ yêu thương mà còn thấu hiểu và lắng nghe những điều bạn nói để không làm bạn phải buồn, cô đơn. Nếu không có duyên gặp được người như vậy thì tôi vẫn luôn ở đây lắng nghe, yêu thương, chiều chuộng bạn như môt công chúa. Best wishes for you!!!  ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
