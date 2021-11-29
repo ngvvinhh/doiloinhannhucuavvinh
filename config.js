@@ -1,4 +1,4 @@
-const nameGirl = 'gnmapdjt';
+const nameGirl = 'gn';
 const giftUrl = 'https://www.facebook.com/ngoc.gia.7505';
 const eventName = 'Đôi lời vvinh nhắn nhủ';
 const titleCard = 'Gửi bạn iu';
